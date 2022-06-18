@@ -3,5 +3,5 @@
 <br>
 <br>        
 <a href="https://wsfreelancer.me/CuboMagico/">
-        <img alt="https://wsfreelancer.me/CuboMagico/" src="./img/Thumbnail.jpg" />
+        <img alt="https://wsfreelancer.me/CuboMagico/" src="./img/Thumbnail.png" />
     </a>

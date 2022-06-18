@@ -2,13 +2,6 @@
 <p align="center">
 <br>
 <br>        
-<a href="https://houssemlachtar.github.io/Rubik-Cube-Game/">
-        <img alt="RubikCubeGame.com" src="./img/Thumbnail.jpg" />
-    </a>
-<br>
-<a href="https://houssemlachtar.github.io/Rubik-Cube-Game/">
-    </a>
-</p>
-
-# Créditos ao <a href="https://houssemlachtar.github.io/Rubik-Cube-Game/">
+<a href="https://wsfreelancer.me/CuboMagico/">
+        <img alt="https://wsfreelancer.me/CuboMagico/" src="./img/Thumbnail.jpg" />
     </a>
